@@ -1,6 +1,6 @@
 # Binary Search on Ranges
 
-### Data used
+### Data Used
 
 http://bgp.potaroo.net/as2.0/bgptable.txt
 
